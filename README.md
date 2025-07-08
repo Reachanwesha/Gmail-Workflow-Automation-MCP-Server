@@ -72,3 +72,7 @@ An AI-powered workflow automation server that reads emails, detects meeting inte
 1. **Install dependencies**:
    ```bash
    pip install openai google-api-python-client google-auth google-auth-oauthlib
+
+2. **Run the server**
+   '''bash
+   python main.py
